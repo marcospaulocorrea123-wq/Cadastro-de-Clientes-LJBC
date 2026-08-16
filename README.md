@@ -47,7 +47,7 @@ Os dados são enviados pelo método **POST** para o arquivo `processaCadastro.ph
 ## 💡 Exemplo de uso
 
 
-## Print do cabeçalho do código com comentários
+## Códigos html, PHP e css com comentários
 ---
 
 <img width="3184" height="1088" alt="Print cods" src="https://github.com/user-attachments/assets/4ac03765-654a-45cf-bea1-737bee7f7646" />
