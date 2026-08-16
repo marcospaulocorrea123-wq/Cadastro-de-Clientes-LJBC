@@ -39,17 +39,10 @@ Dessa forma, o desenvolvimento não se limitou apenas à reprodução dos exempl
 
 # ▶️ Como Executar o Projeto
 
-Para executar o programa, é necessário possuir um navegador web instalado no computador, como Google Chrome, Microsoft Edge ou Mozilla Firefox.
+Para executar o sistema, é necessário ter o XAMPP instalado no computador. Após abrir o XAMPP, deve-se iniciar o servidor Apache e copiar a pasta `cadastro-colaboradores` para o diretório `C:\xampp\htdocs\`.
+Com o Apache em execução, o projeto pode ser acessado pelo navegador através do endereço `http://localhost/cadastro-colaboradores/cadastro.html`. Ao acessar a página, o usuário poderá preencher o formulário com seus dados e clicar no botão **Cadastrar**.
+Os dados são enviados pelo método **POST** para o arquivo `processaCadastro.php`, que recebe e processa as informações, apresentando uma página de confirmação com os dados cadastrados e uma mensagem personalizada. O projeto foi desenvolvido e testado localmente utilizando o **XAMPP e o servidor Apache**.
 
-Primeiramente, faça o download ou clone o repositório do projeto disponível no GitHub. Após baixar os arquivos, localize o arquivo principal chamado `index.html`.
-
-É importante que a pasta de imagens utilizada no projeto esteja no mesmo diretório do arquivo `index.html`, mantendo a estrutura original dos arquivos. Caso a pasta seja movida ou removida, as imagens poderão não ser exibidas corretamente na página web.
-
-Em seguida, clique duas vezes sobre o arquivo `index.html` ou utilize a opção **“Abrir com”** e selecione um navegador de sua preferência. Automaticamente a página será aberta, exibindo o título do projeto e os links dos cinco sites favoritos cadastrados.
-
-Também é possível executar o projeto utilizando o Visual Studio Code. Nesse caso, basta abrir a pasta do projeto no editor e utilizar a extensão **Live Server** para visualizar a página diretamente no navegador em tempo real.
-
-Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bibliotecas, dependências ou servidores adicionais para seu funcionamento.
 
 ## 💡 Exemplo de uso
 
