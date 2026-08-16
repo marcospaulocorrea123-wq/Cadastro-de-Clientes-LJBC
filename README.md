@@ -1,6 +1,5 @@
-# 
-Desenvolvimento de um sistema de cadastro para novos colaboradores das Lojas Brincos e Companhia. Atividade academica da disciplina de Desenvolvimento de Sistemas
 # 💻 CADASTRO-DE-CLIENTES-LJBC
+# Desenvolvimento de um sistema de cadastro para novos colaboradores das Lojas Brincos e Companhia. Atividade academica da disciplina de Desenvolvimento de Sistemas
 
 ![Autor](https://img.shields.io/badge/Autor-Marcos%20Correa-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Responsivo](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
@@ -27,11 +26,14 @@ Experiência anterior em campo de texto longo.
 
 Os atributos name foram definidos no desenvolvimento e incluem números: nome1, idade2, profissao3, salario4 e experiencia5.
 
-O arquivo PHP armazena cada informação em uma variável, apresenta os dados organizados em linhas e utiliza elementos HTML para estruturar a resposta. Ao final, exibe uma mensagem personalizada utilizando nome, profissão e experiência e disponibiliza um botão para retornar ao formulário.
+O arquivo PHP armazena cada informação em uma variável, apresenta os dados organizados em linhas e utiliza elementos HTML para estruturar a resposta. Ao final, exibe uma mensagem personalizada utilizando nome, profissão e experiência e disponibiliza um botão para retornar ao formulário.Para o desenvolvimento deste sistema, grande parte da codificação teve como origem os exemplos e conteúdos apresentados na Apostila da Agenda 02. A partir desses exemplos, os códigos foram estudados, editados e adaptados para atender às necessidades específicas da atividade proposta.
+Além da utilização da estrutura apresentada na apostila, foram acrescentados novos elementos e funcionalidades, buscando melhorar o funcionamento do sistema e adequá-lo ao cadastro de colaboradores da empresa Lojas Brincos e Companhia.
+Também foram adicionados comentários explicativos ao longo dos códigos HTML, PHP e CSS, com o objetivo de facilitar a compreensão de cada parte do sistema. Essa organização permite que futuras alterações, correções e melhorias sejam realizadas de maneira mais simples, além de possibilitar o reaproveitamento dos códigos em outros projetos e atividades.
+Dessa forma, o desenvolvimento não se limitou apenas à reprodução dos exemplos da apostila, mas envolveu a edição, adaptação, complementação e documentação dos códigos, permitindo compreender melhor o funcionamento das tecnologias utilizadas e criar uma estrutura que possa ser utilizada como base para futuros projetos.
 
-O projeto foi testado no XAMPP com Apache
 
-<img width="1536" height="1024" alt="fluxograma 02" src="https://github.com/user-attachments/assets/1d91b5e6-6d3b-44a0-aa8a-567b92321782" />
+<img width="1919" height="1080" alt="fluxograma criado no canva" src="https://github.com/user-attachments/assets/2207382d-97b5-47be-a9c6-4c28e36c1ba8" />
+
 
 ---
 
@@ -55,7 +57,7 @@ Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bi
 ## Print do cabeçalho do código com comentários
 ---
 
-<img width="1624" height="969" alt="print 03" src="https://github.com/user-attachments/assets/0349f066-d02e-4d1e-8d8a-000ce28eb2e0" />
+<img width="3184" height="1088" alt="Print cods" src="https://github.com/user-attachments/assets/4ac03765-654a-45cf-bea1-737bee7f7646" />
 
 ---
 ## Print da tela de exibição do código em execução 
