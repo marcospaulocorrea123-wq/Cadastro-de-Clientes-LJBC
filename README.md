@@ -39,8 +39,8 @@ Dessa forma, o desenvolvimento não se limitou apenas à reprodução dos exempl
 
 # ▶️ Como Executar o Projeto
 
-Para executar o sistema, é necessário ter o XAMPP instalado no computador. Após abrir o XAMPP, deve-se iniciar o servidor Apache e copiar a pasta `cadastro-colaboradores` para o diretório `C:\xampp\htdocs\`.
-Com o Apache em execução, o projeto pode ser acessado pelo navegador através do endereço `http://localhost/cadastro-colaboradores/cadastro.html`. Ao acessar a página, o usuário poderá preencher o formulário com seus dados e clicar no botão **Cadastrar**.
+Para executar o sistema, é necessário ter o XAMPP instalado no computador. Após abrir o XAMPP, deve-se iniciar o servidor Apache e copiar a pasta **cadastro-colaboradores** para o diretório **C:\xampp\htdocs\.**.
+Com o Apache em execução, o projeto pode ser acessado pelo navegador através do endereço **http://localhost/cadastro-colaboradores/cadastro.html**. Ao acessar a página, o usuário poderá preencher o formulário com seus dados e clicar no botão **Cadastrar**.
 Os dados são enviados pelo método **POST** para o arquivo `processaCadastro.php`, que recebe e processa as informações, apresentando uma página de confirmação com os dados cadastrados e uma mensagem personalizada. O projeto foi desenvolvido e testado localmente utilizando o **XAMPP e o servidor Apache**.
 
 
