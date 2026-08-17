@@ -55,7 +55,7 @@ Os dados são enviados pelo método **POST** para o arquivo processaCadastro.php
 <img width="1932" height="1892" alt="print forms" src="https://github.com/user-attachments/assets/b18dbfd3-6463-4525-b8d9-4695dc7536d3" />
 
 
-## Recorte interação com IA
+## Recorte de interação com IA
 
 <img width="2352" height="1876" alt="Interacao 01" src="https://github.com/user-attachments/assets/03a88548-f1d3-4214-a6ad-72e741301b12" />
 
@@ -72,10 +72,12 @@ O sistema foi executado com XAMPP e Apache e utilizou o MySQL para gerenciamento
 
 ## 🚀 Tecnologias utilizadas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
