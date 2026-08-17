@@ -62,7 +62,7 @@ Os dados são enviados pelo método **POST** para o arquivo processaCadastro.php
 
 Este projeto consistiu no desenvolvimento de um sistema web para cadastro de colaboradores, utilizando HTML5, CSS3, PHP e MySQL.
 
-A aplicação permitiu cadastrar e armazenar informações como nome, endereço, salário, supervisor e departamento.
+A aplicação permitiu cadastrar e armazenar informações como nome, endereço, salário, etc.
 
 O sistema foi executado com XAMPP e Apache e utilizou o MySQL para gerenciamento do banco de dados.
 --- 
