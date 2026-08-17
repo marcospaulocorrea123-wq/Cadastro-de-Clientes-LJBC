@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Cadastro de Colaborador</title>
+    <!-- Define o título que será apresentado na aba do navegador -->
+
+    <link rel="stylesheet" href="estilo.css">
+    <!-- Faz a ligação do arquivo HTML com o arquivo CSS responsável pela aparência da página -->
+</head>
+
+<body>
+   
+    <div class="container">
+        <!-- Cria uma área de organização para o formulário -->
+        <!-- A classe "container" será utilizada pelo CSS para definir a aparência e o posicionamento -->
+        <h1>Cadastro de Novo Colaborador</h1>
+        <!-- Apresenta o título principal da página -->
+
+        <p>Lojas Brincos e Companhia</p>
+        <!-- Apresenta o nome da empresa relacionada ao cadastro -->
+
+        <form method="POST" action="processaCadastro.php">
+            <!-- Inicia o formulário de cadastro -->
+            <!-- method="POST" envia os dados de forma mais adequada para processamento -->
+            <!-- action define que os dados serão enviados para o arquivo processaCadastro.php -->
+
+            <label for="nome1">Nome completo:</label>
+            <!-- Identifica o campo onde o usuário deverá informar o nome completo -->
+
+            <input type="text" id="nome1" name="nome1" required>
+            <!-- Campo para digitar o nome do colaborador -->
+            <!-- required torna o preenchimento obrigatório -->
+
+            <label for="idade2">Idade:</label>
+            <!-- Identifica o campo destinado à idade do colaborador -->
+
+            <input type="number" id="idade2" name="idade2" min="16" required>
+            <!-- Campo numérico para informar a idade -->
+            <!-- min="16" define que a idade mínima permitida será de 16 anos -->
+            <!-- required obriga o usuário a preencher o campo -->
+
+            <label for="profissao3">Profissão:</label>
+            <!-- Identifica o campo destinado à profissão do colaborador -->
+
+            <input type="text" id="profissao3" name="profissao3" required>
+            <!-- Campo de texto para informar a profissão -->
+            <!-- required determina que o campo deverá ser preenchido -->
+
+            <label for="salario4">Salário pretendido:</label>
+            <!-- Identifica o campo destinado ao salário pretendido -->
+
+            <input type="number" id="salario4" name="salario4" step="0.01" min="0" required>
+            <!-- Campo numérico para informar o salário pretendido -->
+            <!-- step="0.01" permite informar valores com duas casas decimais -->
+            <!-- min="0" impede valores negativos -->
+            <!-- required torna o preenchimento obrigatório -->
+
+            <label for="experiencia5">Experiência anterior:</label>
+            <!-- Identifica o campo destinado à descrição da experiência profissional -->
+
+            <textarea id="experiencia5" name="experiencia5" rows="6" required></textarea>
+            <!-- Área maior de texto para o usuário descrever sua experiência anterior -->
+            <!-- rows="6" define aproximadamente seis linhas de altura -->
+            <!-- required obriga o preenchimento do campo -->
+
+            <button type="submit">Cadastrar</button>
+            <!-- Botão utilizado para enviar os dados preenchidos no formulário -->
+        </form>
+    </div>
+</body>
+</html>
