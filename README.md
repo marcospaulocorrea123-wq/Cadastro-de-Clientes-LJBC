@@ -55,8 +55,8 @@ Os dados são enviados pelo método **POST** para o arquivo `processaCadastro.ph
 ---
 ## Print da tela de exibição do código em execução 
 ---
+<img width="1932" height="1892" alt="print forms" src="https://github.com/user-attachments/assets/b18dbfd3-6463-4525-b8d9-4695dc7536d3" />
 
-<img width="1064" height="654" alt="print 02" src="https://github.com/user-attachments/assets/bff9be7b-7e15-43bb-9a1f-fe37273f6068" />
 
 ## Print do corpo do código html com comentários do site favorito 01
 
