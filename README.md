@@ -57,7 +57,8 @@ Os dados são enviados pelo método **POST** para o arquivo processaCadastro.php
 
 ## Recorte interação com IA
 
-<img width="2352" height="1876" alt="Interacao 01" src="https://github.com/user-attachments/assets/e31acfed-cc3d-4fae-b8dd-421571c2d950" />
+<img width="2352" height="1876" alt="Interacao 01" src="https://github.com/user-attachments/assets/03a88548-f1d3-4214-a6ad-72e741301b12" />
+
 
 ---
 # 🏁 Descrição Final do Projeto
